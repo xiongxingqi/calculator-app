@@ -37,8 +37,7 @@ class NavBar extends Component {
                         </div>
                     </div>
                 </nav>
-                {/* <div style={{width: "200px",height: "200px",backgroundColor: "red"}}>
-                </div> */}
+
             </div>
     
         );

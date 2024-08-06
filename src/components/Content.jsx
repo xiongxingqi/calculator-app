@@ -4,8 +4,8 @@ class Content extends Component {
     state = {  } 
     render() { 
         return (
-            <div class="card">
-                <div class="card-body">
+            <div className="card">
+                <div className="card-body">
                     {this.props.children}
                 </div>
             </div>
